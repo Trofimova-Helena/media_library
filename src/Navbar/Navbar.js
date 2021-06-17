@@ -1,7 +1,7 @@
 import React from 'react';
 import {NavLink} from "react-router-dom";
 
-function Navbar({}) {
+function Navbar() {
 	return <nav>
 			<ul>
 				<li><NavLink to="/books">Книги</NavLink></li>
