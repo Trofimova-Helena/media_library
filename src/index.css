@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-size: cover;
+  background-image:linear-gradient(rgba(153, 156, 156, 0.78), rgba(153, 156, 156, 0.78)),url('https://storage.theoryandpractice.ru/tnp/uploads/image_block/000/001/267/image/base_1b5543c9c5.jpg');
 }
 
 code {
